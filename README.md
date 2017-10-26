@@ -1,4 +1,4 @@
-# Salesforce Custom Metadatatypes
+# Salesforce Custom Metadata Types
 Accompanying resources for Dreamforce 17 presentation. 
 
 To see a working example of an application using Custom Metadata Types, see our reference app, Fuzzy Picklists: https://github.com/bethbrains/FuzzyPicklists.
