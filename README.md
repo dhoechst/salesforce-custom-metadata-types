@@ -7,5 +7,5 @@ To see a working example of an application using Custom Metadata Types, see our 
 **Custom Metadata Types Module**: https://trailhead.salesforce.com/modules/custom_metadata_types
 
 ## Code Resources
-**Build a Mocking Framework with the Stub API**: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing_stub_api.htm
-**FieldDefinition**: https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_fielddefinition.htm
+- **Build a Mocking Framework with the Stub API**: https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_testing_stub_api.htm
+- **FieldDefinition**: https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/tooling_api_objects_fielddefinition.htm
